@@ -48,7 +48,12 @@ CONFIDENTIAL: This email is intended only for the person or entity which it is a
 <br />
 <br />
 <h2>Employee Phishing Training Awareness Presentation:</h2><br/>
-See attached file named "Phishing presentation"
+<img src="https://imgur.com/28LiGIT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0Iu4khb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/womwmtL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/l6XBSgl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nEPxvxC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YjGaIDJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
